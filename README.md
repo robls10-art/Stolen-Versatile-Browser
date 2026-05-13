@@ -1,2 +1,2 @@
 # Versatile-Browser
-The Official Browser, Updated Weekly!
+The Official Browser Of The Versatile Foundation, Updated Weekly!
