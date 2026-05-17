@@ -5,8 +5,12 @@ The Official Browser Of The Versatile Foundation, Updated Weekly!
 
 Windows 11/10 Devices
 
-### Coming Soon:
+### Coming Out Today!:
 
 Mac OS
 
 Linux
+
+### Coming Out Soon:
+
+Mobile (Android Only)
